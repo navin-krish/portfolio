@@ -48,6 +48,15 @@ const Hero = () => {
               <Linkedin size={20} />
               LinkedIn
             </a>
+             <a
+              href="https://drive.google.com/file/d/1aE-wujFnf0fsUIflCzzevwPq6bfHKQZt/view?usp=drive_link"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 bg-blue-700 text-white px-6 py-3 rounded-lg hover:bg-blue-800 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+            >
+              <Download size={20} />
+              Download resume
+            </a>
           </div>
 
           <div className="flex flex-wrap justify-center gap-6 text-slate-600">
